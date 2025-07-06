@@ -38,7 +38,7 @@ A aplicação foi prototipada com foco em **usabilidade**, **acessibilidade** e 
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/gustavo545/ProjetoHp
 cd seu-repo
 ```
 
